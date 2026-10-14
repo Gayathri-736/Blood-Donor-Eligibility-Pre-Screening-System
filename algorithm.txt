@@ -1,0 +1,13 @@
+Algorithm: Blood Donor Eligibility Pre-Screening System
+
+1. Start the program.
+2. Declare variables for age, weight, hemoglobin, and days since last donation.
+3. Get all four values from the user.
+4. Check whether age is within the configured example criteria.
+5. Check whether weight meets the example threshold.
+6. Check whether hemoglobin meets the example threshold.
+7. Check whether sufficient time has passed since the previous donation.
+8. If a condition fails, display the corresponding screening message.
+9. If all configured conditions pass, display that the basic example criteria are satisfied.
+10. Display the medical disclaimer.
+11. Stop the program.

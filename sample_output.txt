@@ -1,0 +1,12 @@
+
+BLOOD DONOR PRE-SCREENING SYSTEM
+Enter age (years): 22
+Enter weight (kg): 55
+Enter hemoglobin (g/dL): 13.5
+Days since last blood donation: 120
+
+--- Donor Screening Report ---
+Basic example criteria satisfied
+
+Note: This is an educational pre-screening result.
+Final eligibility must be decided by a blood bank.
